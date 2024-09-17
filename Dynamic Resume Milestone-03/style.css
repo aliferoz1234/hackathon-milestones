@@ -81,3 +81,18 @@ button:hover {
 #resumeDisplay h2 {
     color: black;
 }
+
+.profilePicture {
+    display:block;
+    align-content: center;
+    width: 150px;
+    height: 150px;
+    margin-top: 10%;
+    margin-left: 225px;
+    border-radius: 50%;
+    border: 5px solid blue;
+    margin-bottom: 20px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(11,7, 211, 0.5);
+    
+}
